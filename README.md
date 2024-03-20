@@ -4,7 +4,11 @@ A new Flutter project.
 
 ## To Do
 
-Enhance this project by following:
+Add Rust as a back end by following:
+
+- https://rinf.cunarist.com/
+
+Enhance the dart part of the project by following:
 
 - https://dartpad.dev/?id=e7076b40fb17a0fa899f9f7a154a02e8
 
